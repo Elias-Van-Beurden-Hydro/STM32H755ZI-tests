@@ -1,0 +1,11 @@
+C:\Users\elias\school\Hydro\STM32H755ZI tests\stm32\target\thumbv7em-none-eabihf\release\deps\libmanaged-45d1ee226ccf57d4.rmeta: C:\Users\elias\.cargo\registry\src\index.crates.io-6f17d22bba15001f\managed-0.8.0\src\lib.rs C:\Users\elias\.cargo\registry\src\index.crates.io-6f17d22bba15001f\managed-0.8.0\src\object.rs C:\Users\elias\.cargo\registry\src\index.crates.io-6f17d22bba15001f\managed-0.8.0\src\slice.rs C:\Users\elias\.cargo\registry\src\index.crates.io-6f17d22bba15001f\managed-0.8.0\src\slotmap.rs C:\Users\elias\.cargo\registry\src\index.crates.io-6f17d22bba15001f\managed-0.8.0\src\map.rs
+
+C:\Users\elias\school\Hydro\STM32H755ZI tests\stm32\target\thumbv7em-none-eabihf\release\deps\libmanaged-45d1ee226ccf57d4.rlib: C:\Users\elias\.cargo\registry\src\index.crates.io-6f17d22bba15001f\managed-0.8.0\src\lib.rs C:\Users\elias\.cargo\registry\src\index.crates.io-6f17d22bba15001f\managed-0.8.0\src\object.rs C:\Users\elias\.cargo\registry\src\index.crates.io-6f17d22bba15001f\managed-0.8.0\src\slice.rs C:\Users\elias\.cargo\registry\src\index.crates.io-6f17d22bba15001f\managed-0.8.0\src\slotmap.rs C:\Users\elias\.cargo\registry\src\index.crates.io-6f17d22bba15001f\managed-0.8.0\src\map.rs
+
+C:\Users\elias\school\Hydro\STM32H755ZI tests\stm32\target\thumbv7em-none-eabihf\release\deps\managed-45d1ee226ccf57d4.d: C:\Users\elias\.cargo\registry\src\index.crates.io-6f17d22bba15001f\managed-0.8.0\src\lib.rs C:\Users\elias\.cargo\registry\src\index.crates.io-6f17d22bba15001f\managed-0.8.0\src\object.rs C:\Users\elias\.cargo\registry\src\index.crates.io-6f17d22bba15001f\managed-0.8.0\src\slice.rs C:\Users\elias\.cargo\registry\src\index.crates.io-6f17d22bba15001f\managed-0.8.0\src\slotmap.rs C:\Users\elias\.cargo\registry\src\index.crates.io-6f17d22bba15001f\managed-0.8.0\src\map.rs
+
+C:\Users\elias\.cargo\registry\src\index.crates.io-6f17d22bba15001f\managed-0.8.0\src\lib.rs:
+C:\Users\elias\.cargo\registry\src\index.crates.io-6f17d22bba15001f\managed-0.8.0\src\object.rs:
+C:\Users\elias\.cargo\registry\src\index.crates.io-6f17d22bba15001f\managed-0.8.0\src\slice.rs:
+C:\Users\elias\.cargo\registry\src\index.crates.io-6f17d22bba15001f\managed-0.8.0\src\slotmap.rs:
+C:\Users\elias\.cargo\registry\src\index.crates.io-6f17d22bba15001f\managed-0.8.0\src\map.rs:

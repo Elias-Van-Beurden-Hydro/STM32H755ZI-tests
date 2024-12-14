@@ -1,0 +1,3 @@
+cargo:rustc-link-search=C:\Users\elias\school\Hydro\STM32H755ZI tests\stm32\target\thumbv7em-none-eabihf\debug\build\defmt-caf2915d4c3f5d08\out
+cargo:rustc-check-cfg=cfg(c_variadic)
+cargo:rustc-check-cfg=cfg(no_cas)

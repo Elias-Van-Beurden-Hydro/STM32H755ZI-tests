@@ -1,0 +1,10 @@
+C:\Users\elias\school\Hydro\STM32H755ZI tests\stm32\target\thumbv7em-none-eabihf\release\deps\libfutures_task-7d1afe2e23b62a34.rmeta: C:\Users\elias\.cargo\registry\src\index.crates.io-6f17d22bba15001f\futures-task-0.3.31\src/lib.rs C:\Users\elias\.cargo\registry\src\index.crates.io-6f17d22bba15001f\futures-task-0.3.31\src\spawn.rs C:\Users\elias\.cargo\registry\src\index.crates.io-6f17d22bba15001f\futures-task-0.3.31\src\future_obj.rs C:\Users\elias\.cargo\registry\src\index.crates.io-6f17d22bba15001f\futures-task-0.3.31\src\noop_waker.rs
+
+C:\Users\elias\school\Hydro\STM32H755ZI tests\stm32\target\thumbv7em-none-eabihf\release\deps\libfutures_task-7d1afe2e23b62a34.rlib: C:\Users\elias\.cargo\registry\src\index.crates.io-6f17d22bba15001f\futures-task-0.3.31\src/lib.rs C:\Users\elias\.cargo\registry\src\index.crates.io-6f17d22bba15001f\futures-task-0.3.31\src\spawn.rs C:\Users\elias\.cargo\registry\src\index.crates.io-6f17d22bba15001f\futures-task-0.3.31\src\future_obj.rs C:\Users\elias\.cargo\registry\src\index.crates.io-6f17d22bba15001f\futures-task-0.3.31\src\noop_waker.rs
+
+C:\Users\elias\school\Hydro\STM32H755ZI tests\stm32\target\thumbv7em-none-eabihf\release\deps\futures_task-7d1afe2e23b62a34.d: C:\Users\elias\.cargo\registry\src\index.crates.io-6f17d22bba15001f\futures-task-0.3.31\src/lib.rs C:\Users\elias\.cargo\registry\src\index.crates.io-6f17d22bba15001f\futures-task-0.3.31\src\spawn.rs C:\Users\elias\.cargo\registry\src\index.crates.io-6f17d22bba15001f\futures-task-0.3.31\src\future_obj.rs C:\Users\elias\.cargo\registry\src\index.crates.io-6f17d22bba15001f\futures-task-0.3.31\src\noop_waker.rs
+
+C:\Users\elias\.cargo\registry\src\index.crates.io-6f17d22bba15001f\futures-task-0.3.31\src/lib.rs:
+C:\Users\elias\.cargo\registry\src\index.crates.io-6f17d22bba15001f\futures-task-0.3.31\src\spawn.rs:
+C:\Users\elias\.cargo\registry\src\index.crates.io-6f17d22bba15001f\futures-task-0.3.31\src\future_obj.rs:
+C:\Users\elias\.cargo\registry\src\index.crates.io-6f17d22bba15001f\futures-task-0.3.31\src\noop_waker.rs:

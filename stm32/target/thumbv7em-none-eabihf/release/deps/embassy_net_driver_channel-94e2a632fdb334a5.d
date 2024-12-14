@@ -1,0 +1,9 @@
+C:\Users\elias\school\Hydro\STM32H755ZI tests\stm32\target\thumbv7em-none-eabihf\release\deps\libembassy_net_driver_channel-94e2a632fdb334a5.rmeta: C:\Users\elias\.cargo\registry\src\index.crates.io-6f17d22bba15001f\embassy-net-driver-channel-0.3.0\src/lib.rs C:\Users\elias\.cargo\registry\src\index.crates.io-6f17d22bba15001f\embassy-net-driver-channel-0.3.0\src\fmt.rs C:\Users\elias\.cargo\registry\src\index.crates.io-6f17d22bba15001f\embassy-net-driver-channel-0.3.0\src\../README.md
+
+C:\Users\elias\school\Hydro\STM32H755ZI tests\stm32\target\thumbv7em-none-eabihf\release\deps\libembassy_net_driver_channel-94e2a632fdb334a5.rlib: C:\Users\elias\.cargo\registry\src\index.crates.io-6f17d22bba15001f\embassy-net-driver-channel-0.3.0\src/lib.rs C:\Users\elias\.cargo\registry\src\index.crates.io-6f17d22bba15001f\embassy-net-driver-channel-0.3.0\src\fmt.rs C:\Users\elias\.cargo\registry\src\index.crates.io-6f17d22bba15001f\embassy-net-driver-channel-0.3.0\src\../README.md
+
+C:\Users\elias\school\Hydro\STM32H755ZI tests\stm32\target\thumbv7em-none-eabihf\release\deps\embassy_net_driver_channel-94e2a632fdb334a5.d: C:\Users\elias\.cargo\registry\src\index.crates.io-6f17d22bba15001f\embassy-net-driver-channel-0.3.0\src/lib.rs C:\Users\elias\.cargo\registry\src\index.crates.io-6f17d22bba15001f\embassy-net-driver-channel-0.3.0\src\fmt.rs C:\Users\elias\.cargo\registry\src\index.crates.io-6f17d22bba15001f\embassy-net-driver-channel-0.3.0\src\../README.md
+
+C:\Users\elias\.cargo\registry\src\index.crates.io-6f17d22bba15001f\embassy-net-driver-channel-0.3.0\src/lib.rs:
+C:\Users\elias\.cargo\registry\src\index.crates.io-6f17d22bba15001f\embassy-net-driver-channel-0.3.0\src\fmt.rs:
+C:\Users\elias\.cargo\registry\src\index.crates.io-6f17d22bba15001f\embassy-net-driver-channel-0.3.0\src\../README.md:
